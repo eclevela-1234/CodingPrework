@@ -6,3 +6,4 @@ link
 link
 3. Started trying out some Bootstrap and fell down a documentation rabbit hole. 
 link
+4. [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)

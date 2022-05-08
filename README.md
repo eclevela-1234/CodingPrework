@@ -1,6 +1,6 @@
 # CodingPrework
 **Prework Repo for coding bootcamp**
-1. [Practice - Refresher site](./newfile.html)
+1. [Practice - Links to my deployed site pre-work](https://eclevela-1234.github.io/CodingPrework/)
 link
 2. Using the example provided in BootCampSpot
 link

@@ -7,3 +7,4 @@ link
 3. Started trying out some Bootstrap and fell down a documentation rabbit hole. 
 link
 4. [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+5. Module 1 was uploaded on BootCampSpot - will link out here once I have a repo built. Following coursework...
